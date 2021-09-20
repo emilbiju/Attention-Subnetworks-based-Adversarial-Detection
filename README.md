@@ -13,10 +13,11 @@ To further research in this field,we realease a benchmark that contains 5,686 ad
 
 ## Key Contributions
 
-1. A Gesture Path Decoding model that uses a multi-headed Transformer along with LSTM layers for coordinate sequence encoding and a character-level LSTM model for character sequence decoding.
-2. A Contrastive Transliteration correction model that uses position-aware character embeddings to measure word proximities and correct spellings of transliterated words.
-3. Two datasets of simulated word traces for supporting work on gesture typing for Indic language keyboards including low resource languages like Telugu and Kannada.
-4. The accuracies of the proposed models vary from 70 to 89% for English-to-Indic decoding and 86-95% for Indic-to-Indic decoding across the 7 languages used for the study.
+1. We demonstrate that our method is more accurate for larger models which are likely to have more spurious correlations and thus vulnerable to adversarial attack, and performs well even with modest training sets of adversarial examples.
+2. Across all these tasks and attack types, we compare our adversarial detection technique against state-of the-art methods such as DISP (Zhou et al., 2019), NWS (Mozes et al., 2021), and FGWS (Mozes et al., 2021).
+3. Our method establishes the best results in all tasks and attack types, with an average improvement of 10.8% over the best method for each task. Our detector achieves an accuracy of 80–90% across tasks suggesting effective defense against adversarial attacks.
+4. 
+
 
 ## People
 
