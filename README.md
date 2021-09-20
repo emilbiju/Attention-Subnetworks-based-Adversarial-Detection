@@ -16,7 +16,8 @@ To further research in this field,we realease a benchmark that contains 5,686 ad
 1. We demonstrate that our method is more accurate for larger models which are likely to have more spurious correlations and thus vulnerable to adversarial attack, and performs well even with modest training sets of adversarial examples.
 2. Across all these tasks and attack types, we compare our adversarial detection technique against state-of the-art methods such as DISP (Zhou et al., 2019), NWS (Mozes et al., 2021), and FGWS (Mozes et al., 2021).
 3. Our method establishes the best results in all tasks and attack types, with an average improvement of 10.8% over the best method for each task. Our detector achieves an accuracy of 80–90% across tasks suggesting effective defense against adversarial attacks.
-4. 
+4. We develop three sets feature sets, which together comprise of the input to the adversarial detection model.We compare different combinations of the features demonstrating that they are mutually informative and thus combining them all works best.
+5. We also show that CutMix data augmentation (Yun et al., 2019) improves accuracy, demonstrating the first use of this method in adversarial detection in NLP task.
 
 
 ## People
