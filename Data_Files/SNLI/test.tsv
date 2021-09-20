@@ -1,0 +1,719 @@
+	premise	hypothesis	label
+0	A girl holding a beverage points at a painting.	The girl has a beverage.	0
+1	A worker peers out from atop a building under construction.	A person is atop of a building.	0
+2	A guy riding a motorcycle near junk cars	The man is test driving a motorcycle to decide whether or not he will buy it.	1
+3	The woman in the black shirt hands papers to the children surrounding her.	Someone giving out paper.	0
+4	Four men stand in a circle facing each other playing brass instruments which people watch them.	The men are playing music	0
+5	A land rover is being driven across a river.	A sedan is stuck in the middle of a river.	2
+6	3 ladies with numbers on their shirts running.	The ladies are riding bikes.	2
+7	A man in a black ball cap, black jacket and pants sitting in front of a building painted white and blue with the words ING and PEOPLE written on it.	The man is sitting in front of a school.	1
+8	Girl in a red coat, blue head wrap and jeans is making a snow angel.	A girl in a red coat makes a snow angel for the first time.	1
+9	"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall."	Parents gathers for a local high school concert	1
+10	A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.	An angry military veteran watches as people protest the war.	1
+11	A young boy walks on a pipe that stretches over water.	A boy is walking outside.	0
+12	A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.	The man is cold.	1
+13	A man in a black shirt overlooking bike maintenance.	A man destroys a bike.	2
+14	A man of the cloth puts a black substance on a man's forehead.	The women are at the park.	2
+15	A young boy in green shorts balances on a pipe above a river.	A person balancing.	0
+16	Dog running with pet toy being chased by another dog.	dog is running and being chased by another dog	0
+17	A brown dog jumps over an obstacle.	The dog is a chihuahua.	1
+18	A man wearing a red uniform and helmet stands on his motorbike.	a man standing on his motorbike.	0
+19	A dog jumping for a Frisbee in the snow.	A pet is enjoying a game of fetch with his owner.	1
+20	Two formally dressed, bald older women	Two bald women.	0
+21	A man of the cloth puts a black substance on a man's forehead.	The man puts something on the other mans head.	0
+22	Two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign.	Two men sit outdoors in an urban area.	0
+23	A little boy with a blue bike helmet and a woman in a green bike helmet are riding bikes down a street with other various bike riders.	A group of people ride bikes together down a street.	0
+24	A man with no shirt on is performing with a baton.	A man is doing things with a baton.	0
+25	A woman working long hours.	A woman is sleeping.	2
+26	A woman in tennis clothes running to hit a ball with her tennis racket.	A woman plays tennis.	0
+27	A woman is painting a mural of a woman's face.	There is a woman painting.	0
+28	A person rolls down a hill riding a wagon as another watches.	A child in a wagon rolls down a hill.	1
+29	These girls are having a great time looking for seashells.	The girls are taking a nap.	2
+30	A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.	There are several people outside of a building.	0
+31	Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.	ten boys play cricket	2
+32	A group of kids is splashing in deep water nearby a rock formation.	The kids are singing in a choir	2
+33	Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.	three men going to work	1
+34	A young man in a blue hoodie doing a flip off of a half-wall that is covered in graffiti.	A man does a flip off a wall.	0
+35	A guy and a girl look down a mountain range.	The people look at the mountains.	0
+36	A woman wearing jeans is walking down the street.	An elderly woman with a cane is sitting on a chair.	2
+37	An old man looking over a sculpture.	the man is old	0
+38	"Two street people and a dog sitting on the ground and one is holding an ""out of luck"" sign."	people with a dog	0
+39	A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.	the man is wearing a gray cap.	0
+40	A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.	The man is moving.	0
+41	A woman in black reviews a message as she walks to work.	The woman in black is not walking to work.	2
+42	A biker races.	A person is riding a bike	0
+43	A carpenter is working on a roof at a house being built.	A man is hammering the final shingle on a roof.	1
+44	Dark-haired man wearing a watch and oven mitt about to cook some meat in the kitchen.	A man is going to surprise his wife with dinner.	1
+45	The little boy gets ready to kick the soccer ball.	the boy is sleeping at home	2
+46	Women of India performing with blue streamers, in beautiful blue costumes.	dogs sniff the air	2
+47	The girl wearing a brown jacket whilst walking in snow.	The girl is walking outside.	0
+48	Four women competitively rollerskating around an area.	Women rollerskating around an are	0
+49	A man and woman sitting on the sidewalk.	The man and woman are sitting.	0
+50	Two men prepare a fish at a dock.	Two men have just come in from fishing all day	1
+51	An elderly woman is preparing food in the kitchen.	A person makes dinner.	1
+52	a woman in a black shirt looking at a bicycle.	A woman in green sleeps on a couch.	2
+53	A crowd of people looking up at 3 people on the edge of the roof of a building.	The crowd is calling for help for the people on the roof.	1
+54	A man with a long white beard is examining a camera and another man with a black shirt is in the background.	a man is with another man	0
+55	Two people crossing by each other while kite surfing.	There is one person outdoors.	2
+56	An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.	An old woman has no jacket.	2
+57	A woman, in red and white, and wearing glasses, sits in a room with other people.	A woman is sitting in a room with other people.	0
+58	A couple walk hand in hand down a street.	A couple is walking together.	0
+59	A man in a suit driving a horse-drawn buggy down a stone street.	The man is driving a limosine.	2
+60	A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.	Two men are recording a cooking tutorial.	1
+61	A man and woman sitting on the sidewalk.	The man and woman are standing.	2
+62	A young man waring black and carrying a skateboard looks at an outdoor skateboard park.	A girl with a ponytail is riding a bike at a park.	2
+63	Several women are playing volleyball.	A bunch of women are playing volleyball	0
+64	Six dogs swimming in a river.	The puppies are setting on the couch.	2
+65	A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.	A person outside pushing a stroller.	0
+66	a woman in a black shirt looking at a bicycle.	A woman dressed in black shops for a bicycle.	1
+67	A group of adults stands in the bathroom looking down a small child in the bath.	The child is sleeping.	2
+68	Two ladies at workout in mother nature.	The ladies are sitting on the floor.	2
+69	A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.	A person is in a garage.	0
+70	Four men stand in a circle facing each other playing brass instruments which people watch them.	People love the music	1
+71	"Two street people and a dog sitting on the ground and one is holding an ""out of luck"" sign."	the dog is a chihuahua	1
+72	A woman in a brown shirt is kneeling in the street.	A woman is on the ground outside.	0
+73	a young boy using a field microscope to identify a field specimen during a field trip.	The young girl looks through the telescope.	2
+74	Children in yellow sports uniforms climbing a tower.	Children in uniforms climb a tower.	0
+75	a young boy using a field microscope to identify a field specimen during a field trip.	The boy is looking through a microscope.	0
+76	Women of India performing with blue streamers, in beautiful blue costumes.	indian women are performing a religious ritual together	1
+77	Two men in neon yellow shirts busily sawing a log in half.	Two men are hammering.	2
+78	Male in a blue jacket decides to lay in the grass.	The guy in yellow is rolling on the grass	2
+79	A young family enjoys feeling ocean waves lap at their feet.	A family is out at a restaurant.	2
+80	A golden dog passes a blue ball to another golden dog on the beach.	The golden dog is playing ball with another dog outside.	0
+81	"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall."	People leave as the concert is decides to charge per note	2
+82	Two children, both wearing tan coats, are embracing one another.	Two kids are hugging after surviving a horrible car wreck.	1
+83	Four adults eat while sitting on a tile floor.	Two couples eat food on a kitchen floor.	1
+84	a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.	A climber pulls himself up 5000 feet up over a forest	1
+85	A busy street with numerous people interacting and going about their lives.	The street is quiet and calm.	2
+86	Girl in a red coat, blue head wrap and jeans is making a snow angel.	A girl outside plays in the snow.	0
+87	Two women walk down a sidewalk along a busy street in a downtown area.	The women were walking downtown	0
+88	A person with a purple shirt is painting an image of a woman on a white wall.	A woman paints a portrait of her best friend.	1
+89	A statue at a museum that no seems to be looking at.	There is a statue that not many people seem to be interested in.	0
+90	Three men are sitting outside on chairs with red seats.	Men are sitting outside.	0
+91	A man wearing a red uniform and helmet stands on his motorbike.	a man sitting in a car.	2
+92	Man and woman eating a hotdog.	A man and woman are eating a hotdog at a baseball game.	1
+93	A man playing an electric guitar on stage.	A man is performing for cash.	1
+94	a boy in a red hooded top is smiling whilst looking away from his reflection.	The boy is upset.	2
+95	A man has flung himself over a pole with people and canopies in the background.	A guy has hurled himself in the air.	0
+96	A man playing billiards at a bar.	A man is playing with friends.	1
+97	A woman within an orchestra is playing a violin.	A man is looking in a telescope.	2
+98	Several younger people sitting in front of a statue.	several young people are sitting in an auditorium	2
+99	A man in a suit driving a horse-drawn buggy down a stone street.	The man is an amish man.	1
+100	The two young girls are dressed as fairies, and are playing in the leaves outdoors.	The two girls play in the Autumn.	1
+101	An older man leans against a pedestal outside of an ornate building.	A young man is jogging	2
+102	A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.	A man is in front of a camera.	0
+103	A golden retriever nurses puppies.	A cat nurses puppies	2
+104	A girl playing a violin along with a group of people	A girl is washing a load of laundry.	2
+105	Two children re laying on a rug with some wooden bricks laid out in a square between them.	Two children are building a brick furnace.	1
+106	A skateboarding youth does a trick on a rail.	A young person on a skateboard.	0
+107	A woman is weaving with a comb in her hand.	A woman is sitting with empty hands.	2
+108	There are five singers on a stage, three women and two men.	There are more females than males.	0
+109	A boy is riding down the road between two cows.	A boy rides a horse by two cows.	1
+110	A crowd wearing orange cheering for their team in a stadium.	People wearing orange.	0
+111	A black man wearing a down jacket with his arms spread and holding a pink comb.	A man was wearing a jacket in winter.	1
+112	A person is sitting in front of a graffiti covered wall.	A person is laying at home	2
+113	Here is a picture of people getting drunk at a house party.	People were celebrating at a Christmas themed party.	1
+114	Some dogs are running on a deserted beach.	They are in Hawaii.	1
+115	A man in a black shirt overlooking bike maintenance.	A man learns bike maintenance.	1
+116	A woman within an orchestra is playing a violin.	A woman is playing the violin.	0
+117	These are young adults who seem to be working together to protect the plants surrounding the white pole.	The plants are ferns	1
+118	These girls are having a great time looking for seashells.	The girls are outside.	0
+119	An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.	An old woman has a jean jacket.	0
+120	2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.	Two kids were hugging.	0
+121	Two children, both wearing tan coats, are embracing one another.	Two kids are hugging.	0
+122	A crowd wearing orange cheering for their team in a stadium.	A group of drag queens walking down the street.	2
+123	A man of the cloth puts a black substance on a man's forehead.	The men are at church.	1
+124	A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.	A man is watching a group of people having a hot dog eating contest.	2
+125	A car is loaded with items on the top.	The car has stuff on top.	0
+126	A naked man rides a bike.	A naked red haired man on a bike on a busy street.	1
+127	A woman wearing a ball cap squats down to touch the cracked earth.	A squatting woman wearing a hat touching the ground.	0
+128	A group of seven individuals wearing rafting gear, white water raft down a river.	There are people in an inflatable boat.	0
+129	an old shoemaker in his factory	The shoemaker is inside.	0
+130	A kid playing a game called The Derby.	The child is playing a game for fun.	1
+131	A black dog with a blue collar is jumping into the water.	A dog is going to get wet.	0
+132	Three boys in white shirts are walking behind an older model Ford car.	There are three girls	2
+133	A person in orange clothing rests above a metro entrance.	A person is waiting for a train.	1
+134	People are riding bicycles in the street, and they are all wearing helmets.	A group of bicyclists are on a street outside	0
+135	A car is loaded with items on the top.	The car is a convertible.	2
+136	Villagers pulling in the fish boat.	The villagers are sitting around the camp fire.	2
+137	Two men in neon yellow shirts busily sawing a log in half.	Two men are cutting wood to build a table.	1
+138	A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.	the man is at home sleeping	2
+139	A dog standing near snow looking at water.	A cat is laying on the couch.	2
+140	A birthday party for many little people to enjoy.	Children are running down the street.	2
+141	A person in a red shirt and black pants hunched over.	The person is wearing a green shirt.	2
+142	a group of people dancing together.	People are dancing.	0
+143	A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.	A famous NBA player is playing street ball in front of a crowd.	1
+144	The American footballer in yellow catches the ball whilst under pressure from the payer in white.	The basketball player shoots a three pointer.	2
+145	Man holding torch of fire.	The fire is large.	1
+146	A homeless man pushes an overfilled plastic blue shopping cart.	A man has a shopping cart	0
+147	Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.	Bruce Springsteen is from Florida.	1
+148	Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background	Two men are wearing lime green jackets.	0
+149	The sun breaks through the trees as a child rides a swing.	The child on the swing is a girl.	1
+150	Two children, both wearing tan coats, are embracing one another.	Two kids are running down a highway.	2
+151	A crowded city street with lots of pedestrians.	There are many pedestrians on the city street.	0
+152	A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.	A woman on a bike.	0
+153	A woman in red blouse is standing with small blond child in front of a small folding chalkboard.	a woman stands with a child	0
+154	A woman in a brown shirt is kneeling in the street.	A woman is protesting in the street.	1
+155	A woman, wearing a colorful bikini, rests laying down next to the blue water.	The woman is wearing a prom dress.	2
+156	A woman is painting a mural of a woman's face.	There is a man tying his shoes.	2
+157	A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.	A couple is eating in a restaurant.	2
+158	A child is sticking her head out of the 0095 taxi cab and screaming.	A child is screaming at the person that almost hit her taxi cab.	1
+159	A man in a black shirt is looking at a bike in a workshop.	A man is in a black shirt	0
+160	A guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him.	His bald head is exposed.	2
+161	Two women walk down a sidewalk along a busy street in a downtown area.	The women were picking berries in the countryside	2
+162	Girl in a red coat, blue head wrap and jeans is making a snow angel.	Girl in a black coat stays indoors away from the snow.	2
+163	A mother and daughter walk along the side of a bridge.	A mother and daughter are eating spaghetti in a kitchen.	2
+164	A Ford car is making a right turn as 3 males are walking across the street behind the car.	A car making a right turn had three pedestrians cross behind it.	0
+165	A man in an apron smiles as he pokes a frying donut with a little metal stick.	The man is washing his car.	2
+166	Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.	four men play drums	0
+167	Two ladies at workout in mother nature.	The ladies are kickboxing.	1
+168	A guy and a girl look down a mountain range.	The couple is going to climb the mountains.	1
+169	A man cooking with fire in like 5 pots at the same time!	A man is cooking with a lot of pots.	0
+170	"Many people standing outside of a place talking to each other in front of a building that has a sign that says ""HI-POINTE."""	The people are sitting in the hotel lobby.	2
+171	A person in a red shirt is mowing the grass with a green riding mower.	A person in red is swimming in the Olympics.	2
+172	A man standing in front of a building on the phone as two men to the side pain on the side.	a busy man stands with bodyguards	1
+173	Man holding torch of fire.	The man is holding a bag.	2
+174	Three dogs running through a field.	The dogs are eating	2
+175	A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.	The swimmer is eating a toasted marshmallow.	2
+176	The man in the black t-shirt is trying to throw something.	The man is in a black shirt.	0
+177	Three dogs running through a field.	Three dogs are running	0
+178	Three dogs running through a field.	Three dogs are running in the daytime	1
+179	A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.	The boy is sitting on the school bus on his way home.	2
+180	An old man with a package poses in front of an advertisement.	A man poses in front of an ad.	0
+181	A young boy in red leaping into sand at a playground.	A child is playing in the sand.	0
+182	Two children and a woman climb up the stairs on a metal electric pole-like structure.	A woman and two children climb up the stairs	0
+183	A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.	A person is enjoying a sporting event.	1
+184	A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.	A father is buying his daughter ice cream.	1
+185	A land rover is being driven across a river.	A vehicle is crossing a river.	0
+186	Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.	Bruce Springsteen is gay	1
+187	People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.	People are riding on the escalator.	0
+188	A brown dog carries an object in its mouth on a snowy hillside.	A dog is taking something to its owner.	1
+189	The tattooed basketball player is about to dunk the ball.	The person is playing basketball.	0
+190	There are five singers on a stage, three women and two men.	The people performing are part of a chorus.	1
+191	A woman wearing a bright orange blouse is weaving.	A woman is ironing red pants.	2
+192	Four adults eat while sitting on a tile floor.	A group of people eat food.	0
+193	A man holding a baby who is petting a pony.	A man with a baby is petting a pony.	0
+194	Girl in red jumping up	The girl is sitting on the grass.	2
+195	Four young girls playing in the water.	Four girls are swimming.	1
+196	A young child joyfully pulls colorful tissue paper from a decorated box, looking for his present.	a child opens a present on his birthday	1
+197	A woman, in red and white, and wearing glasses, sits in a room with other people.	A man is fixing his car.	2
+198	A man in an Alaska sweatshirt stands behind a counter.	The man is from Alaska.	1
+199	An older women tending to a garden.	The lady has a garden	0
+200	Female gymnasts warm up before a competition.	Gymnasts get ready for the biggest competition of their life.	1
+201	A group of people gathered at night watching an event.	A group of friends are watching the music concert at night.	1
+202	A black man wearing a red belt and a white man wearing a blue belt are pictured in the act of practicing martial arts inside a building with a woman looking on in the background.	The men are novices at martial arts.	1
+203	A group of people look at fresh lettuce in at the local street market.	A group of dogs look at fresh lettuce in at the local street market.	2
+204	The back of a woman wearing a white jacket with blue jeans walking towards a flock of birds.	Someone person was near a bunch of birds.	0
+205	A female runner dressed in blue athletic wear is running in a competition, while spectators line the street.	The streets are empty.	2
+206	A biker races.	The car is yellow	2
+207	The girls walk down the street.	Girls walk down the street.	0
+208	Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.	People run together.	2
+209	Island native fishermen reeling in their nets after a long day's work.	The men caught many fish.	1
+210	A white duck expanding its wings in the water.	The duck sleeps soundly, floating on top of the water	2
+211	People jump over a mountain crevasse on a rope.	People slide over a mountain crevasse on a slide.	2
+212	A woman doing gymnastics, she is using the balance beam	A woman is using gymnastics equipment.	0
+213	couples enjoying a meal, while a bunch of dogs take a nap.	THERE IS A COUPLE WALKING THEIR DOGS	2
+214	Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.	The little boys are crying.	2
+215	A group of kids is splashing in deep water nearby a rock formation.	The kids are in deep water	0
+216	many children play in the water.	The children are at camp.	1
+217	A woman doing gymnastics, she is using the balance beam	A woman is napping in the gym.	2
+218	Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.	three men sleeping in a tent	2
+219	One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.	A boy runs into a wall	2
+220	The boys are playing with Legos.	Boys are playing outside.	1
+221	Three girls blow out the candles of a cake made of Peeps.	Some people are blowing out candles	0
+222	a man with a red headband climbing a rock cliff looming over greenery.	A man is outdoors.	0
+223	A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.	A crowd is watching someone play basketball.	0
+224	Several men at a bar watch a sports game on the television.	There are men drinking beer at a sports bar.	1
+225	A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.	The man is wearing work attire and is walking to his job.	0
+226	A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.	The boy is playing on the swings after school.	1
+227	A man is sitting on the floor, sleeping.	A man is sleeping on the floor.	0
+228	A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.	Two woman are trying to finish orders from a doctor	1
+229	A couple walk hand in hand down a street.	A couple is sitting on a bench.	2
+230	Four women are taking a walk down an icy road.	The road is dangerous for the four women to try to walk on because it is covered in ice.	1
+231	A group of footballs players is standing behind a coaching official.	There are multiple people present.	0
+232	A mother and daughter walk along the side of a bridge.	A mother and daughter are walking home.	1
+233	The man in the black t-shirt is trying to throw something.	The man is throwing something to his son.	1
+234	A homeless man pushes an overfilled plastic blue shopping cart.	A man is collecting cans to recycle	1
+235	A man and woman are taking a picture of themselves while a woman in a scarf walks by them.	A man and woman take selfies of themselves.	0
+236	Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.	Two boys washing their hands	0
+237	A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.	A person is dancing and singing.	2
+238	A man, woman, and child get their picture taken in front of the mountains.	A family is in their car.	2
+239	Biker riding through the forest.	Mountain biker competes in off-road race.	1
+240	People jump over a mountain crevasse on a rope.	People are jumping outside.	0
+241	A man wearing a red vest is walking past a black and green fence.	A man is wearing a vest.	0
+242	A busy street with numerous people interacting and going about their lives.	The street is alive with activity.	0
+243	Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.	They are going fishing.	1
+244	A boy hits a tennis ball on a court.	A girl is hitting the ball.	2
+245	The boys are playing with Legos.	Boys are playing chess.	2
+246	A man with no shirt on is performing with a baton.	A man is trying his best at the national championship of baton.	1
+247	A crowd of people shopping at a street market in an urban area with buildings and a statue in background.	The crowd of people are shopping at a street market that sells fruits.	1
+248	Violin soloists take the stage during the orchestra's opening show at the theater.	People are playing the harmonica while standing on a roof.	2
+249	two boys reading superhero books	Two boys reading a piece of literature.	0
+250	A golden dog passes a blue ball to another golden dog on the beach.	The dogs are refusing to share.	2
+251	A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps.	A woman watches a mother speak to her young son.	1
+252	Violin soloists take the stage during the orchestra's opening show at the theater.	People are playing violin on stage.	0
+253	Men sitting on the side of a brick road.	the side of the road is empty.	2
+254	The man in the black wetsuit is walking out of the water.	A man is laying on the beach.	2
+255	A woman, wearing a colorful bikini, rests laying down next to the blue water.	The woman is a super model.	1
+256	The two young girls are dressed as fairies, and are playing in the leaves outdoors.	Two girls play dress up indoors.	2
+257	This church choir sings to the masses as they sing joyous songs from the book at a church.	The church is filled with song.	0
+258	A guy riding a motorcycle near junk cars	A man is sitting on a parked motorcycle waiting for his friend.	2
+259	Two people crossing by each other while kite surfing.	The people are both males.	1
+260	Biker riding through the forest.	Mountain biker enjoying the local trails.	1
+261	Two children re laying on a rug with some wooden bricks laid out in a square between them.	Two children are on a rug.	0
+262	Three women are sitting on a green bench looking out at the coast.	The three women are best friends.	1
+263	A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.	A boy is on a playground.	0
+264	A hockey player in helmet.	The players are taking rest.	2
+265	Female gymnasts warm up before a competition.	Football players practice.	2
+266	Four boys are about to be hit by an approaching wave.	A wave is about hit some boys.	0
+267	A large number of people wearing only white and red are walking on a street.	A large number of men walking down the street in red and white.	1
+268	A group of people are in a rowboat in the ocean surrounded by seagulls.	A group of people are inside watching a hockey game.	2
+269	A large number of people wearing only white and red are walking on a street.	A large number of people wearing black walking down the street.	2
+270	A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.	A dog is running up the steps of a building.	2
+271	A woman leans over a small fence to take a picture of a yellow flower.	A woman is taking pictures	0
+272	Four women are taking a walk down an icy road.	Four women are walking near the dry highway.	2
+273	Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.	Young boys kicking around a soccer ball.	0
+274	The boys are playing with Legos.	Boys are playing.	0
+275	A man standing in front of a building on the phone as two men to the side pain on the side.	a guy near a building stands by two other men	0
+276	Two dogs run together near the leaves.	The two dogs are sleeping on the pile of leaves.	2
+277	A group of people in an alley looking at the camera.	People are on their computer	2
+278	A man in a brown jacket stands with his arms spread.	The man pleads for mercy.	1
+279	A man in a brown jacket stands with his arms spread.	The man is upright.	0
+280	A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.	The man is testing the bike.	1
+281	A snowboarder on a wide plain of snow	A snow field with a snowboarder on it	0
+282	Two men are standing in a boat.	Some men are standing on top of a car.	2
+283	A couple walk hand in hand down a street.	The couple is married.	1
+284	Five girls and two guys are crossing a overpass.	The three men sit and talk about their lives.	2
+285	A dog jumping for a Frisbee in the snow.	A cat washes his face and whiskers with his front paw.	2
+286	A man playing an electric guitar on stage.	A man playing guitar on stage.	0
+287	A large number of people wearing only white and red are walking on a street.	A large number of people walking on a street.	0
+288	People jump over a mountain crevasse on a rope.	Some people look visually afraid to jump.	1
+289	Two little kids without shirts are sitting down facing each other.	Two children are sitting shirtless indoors	1
+290	The back of a woman wearing a white jacket with blue jeans walking towards a flock of birds.	There was a dog inside.	2
+291	A guy and a girl look down a mountain range.	The people look into the sky.	2
+292	A young girl in a yellow top and a flowered skirt is standing on a blanket and biting on a toy.	A girl is standing.	0
+293	Male in a blue jacket decides to lay in the grass.	The guy wearing a blue jacket is laying on the green grass taking a nap.	1
+294	Two dogs run together near the leaves.	Two dogs are running.	0
+295	A man wearing a red uniform and helmet stands on his motorbike.	a person standing.	0
+296	A woman, standing behind a girl, helping the girl with an experiment.	A mother is helping her child complete the experiment.	1
+297	A group of footballs players is standing behind a coaching official.	There is only one person present.	2
+298	Two teenage girls conversing next to lockers.	Girls talking next to the toilet.	2
+299	Three men are carrying a red bag into a boat with another person and boat in the background.	Some sailors get in a sailboat.	1
+300	Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.	Young boys throwing a baseball at a baseball field.	2
+301	A man, woman, and child get their picture taken in front of the mountains.	People are outdoors.	0
+302	A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.	A man is trying to earn money by playing for other people on the street.	1
+303	A man playing billiards at a bar.	A man is playing billiards.	0
+304	couples enjoying a meal, while a bunch of dogs take a nap.	SOME ANIMALS ARE ASLEEP	0
+305	Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.	Two teams from rival colleges are in the fourth quarter of a game.	1
+306	A middle eastern marketplace.	An American theater.	2
+307	A girl playing a violin along with a group of people	A group of people are playing in a symphony.	1
+308	Five girls and two guys are crossing a overpass.	The extended family hike together on their family reunion.	1
+309	A person in a red shirt is mowing the grass with a green riding mower.	A person in red is cutting the grass on a riding mower	0
+310	Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.	The boys just won their soccer game	1
+311	People are riding bicycles in the street, and they are all wearing helmets.	A group of friends are biking through a street, all wearing their helmets	1
+312	A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.	A woman is flying crosscountry.	2
+313	The flight attendant dressed in yellow demonstrates life vest usage.	A flight attendant is standing in front of passengers.	1
+314	The soccer team, clad in blue for the match, began to counter down the field in front of the defender, clad in red.	The soccer team in blue plays soccer.	0
+315	A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.	The woman has something on her face.	0
+316	A young man waring black and carrying a skateboard looks at an outdoor skateboard park.	A guy is going skateboarding today.	1
+317	A young family enjoys feeling ocean waves lap at their feet.	A young man and woman take their child to the beach for the first time.	1
+318	An older man leans against a pedestal outside of an ornate building.	An older man is leaning outside his nursing home	1
+319	Two people crossing by each other while kite surfing.	The people are outdoors.	0
+320	A group of four children pose on a muddy beach, smiling and making faces.	Four kids pose during summer vacation.	1
+321	A guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him.	A man is crouching on a handrail.	0
+322	A young man waring black and carrying a skateboard looks at an outdoor skateboard park.	A guy with a skateboard is looking at a park to skateboard.	0
+323	A child in a ninja outfit does a jumping kick.	a child does a jumping kick	0
+324	A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.	An old lady pushing a stroller down a busy street.	1
+325	Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.	Some people stand around.	2
+326	2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.	Two youths were pushing each other.	2
+327	A girl in a blue dress takes off her shoes and eats blue cotton candy.	The girl in a blue dress is a flower girl at a wedding.	1
+328	A blond woman in a black shirt is standing behind a counter.	The woman has her hair pulled back in a bun.	1
+329	Five children playing soccer chase after a ball.	Five children are playing.	0
+330	This church choir sings to the masses as they sing joyous songs from the book at a church.	A choir singing at a baseball game.	2
+331	An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.	The employee is wearing a blue shirt.	1
+332	Three men are carrying a red bag into a boat with another person and boat in the background.	Some people put something in a boat in a place with more than one boat.	0
+333	a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.	A climber pulls himself up some rocks	0
+334	Four people and a baby are crossing the street at a crosswalk.	People and a baby crossing the street.	0
+335	A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.	A tall human jumping.	1
+336	A girl holding a beverage points at a painting.	The girl is in the bathtub	2
+337	A group of cleaners are sweeping up animal feces from the street during a parade or festival.	Workers cleaning up after St Patrick's Day.	1
+338	Four people and a baby are crossing the street at a crosswalk.	People and a baby are crossing the street at a crosswalk to get home.	1
+339	A man in a black shirt is looking at a bike in a workshop.	A man is deciding which bike to buy	1
+340	A boy hits a tennis ball on a court.	A boy is hitting a ball.	0
+341	Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash.	Two homeless men lean against a wall with a dog.	0
+342	A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.	A person is near a pile of coconuts.	0
+343	Workers standing on a lift.	Workers walk off a lift	2
+344	Workers standing on a lift.	Workers stand on a lift	0
+345	A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.	A boy swims nude while a seagull eats his peanut butter sandwich.	2
+346	A carpenter is working on a roof at a house being built.	A workman is helping put a roof on a house.	0
+347	A goofy looking woman is singing on stage.	A blonde woman is singing and dancing on the stage.	1
+348	people are standing near water with a boat heading their direction	People are standing near water with a large blue boat heading their direction.	1
+349	A young child joyfully pulls colorful tissue paper from a decorated box, looking for his present.	a child fights a bag, the bag is winning	2
+350	A mother and daughter walk along the side of a bridge.	A mother and daughter are walking.	0
+351	Several women wearing dresses dance in the forest.	The women are older	1
+352	A crowd of people looking up at 3 people on the edge of the roof of a building.	The crowd on the ground is watching 3 people on the roof's edge.	0
+353	Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.	A man is wearing a blue shirt.	1
+354	Two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign.	Two research scientists conduct research in disguise.	1
+355	These are young adults who seem to be working together to protect the plants surrounding the white pole.	The adults are young	0
+356	A woman leans over a small fence to take a picture of a yellow flower.	The woman is a professional photographer	1
+357	Two formally dressed, bald older women	Two long-haired young women.	2
+358	A man standing in front of a building on the phone as two men to the side pain on the side.	two girls walk through a hall	2
+359	A young boy in red leaping into sand at a playground.	A young boy jumps onto his friends sand castle at a playground.	1
+360	A blond woman in a black shirt is standing behind a counter.	The woman is seated on a beach towel.	2
+361	A woman, standing behind a girl, helping the girl with an experiment.	A woman is helping a girl.	0
+362	Four young girls playing in the water.	There are boys and girl in the water.	2
+363	A golfer is getting ready to putt on the green, with a crowd of people watching in the background.	The golfer is getting ready to putt on the green, with a crowd watching in the background.	0
+364	A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.	A group of well dressed people walk down a block with one of them holding a sign.	0
+365	An elderly woman is preparing food in the kitchen.	A woman makes food.	0
+366	A biker races.	The biker loses the race	1
+367	A boy in a green shirt on a skateboard on a stone wall with graffiti	A long-haired boy riding his skateboard at a fast pace over a stone wall with graffiti.	1
+368	Some dogs are running on a deserted beach.	There are multiple dogs present.	0
+369	"Many people standing outside of a place talking to each other in front of a building that has a sign that says ""HI-POINTE."""	The people are having a chat before going into the work building.	1
+370	A woman in red blouse is standing with small blond child in front of a small folding chalkboard.	a dog barks loud	2
+371	An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.	The employee is indoors.	0
+372	A woman wearing a bright orange blouse is weaving.	A woman is wearing a bright orange blouse and a green hat.	1
+373	One man, wearing a blue jacket, is kicking another man, wearing a red jacket.	One guy kicks another.	0
+374	A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.	A person is burning a straw hat.	2
+375	A girl holding a beverage points at a painting.	The girl is drinking an alcoholic beverage.	1
+376	A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.	A person is swimming.	0
+377	A boy in a green shirt on a skateboard on a stone wall with graffiti	A boy riding a skateboard on a stone wall.	0
+378	Four children are playing in some water.	The children are wet.	0
+379	A man playing an electric guitar on stage.	A man playing banjo on the floor.	2
+380	The tattooed basketball player is about to dunk the ball.	The player has a tattoo that says mother.	1
+381	Two women walk down a sidewalk along a busy street in a downtown area.	The women were walking downtown because the buses were on strike	1
+382	The girl wearing a brown jacket whilst walking in snow.	A woman is eating pasta in a restaurant.	2
+383	"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall."	Mob gathers as flutes fight to the death	2
+384	A child in a ninja outfit does a jumping kick.	a child is wrestling with bears	2
+385	Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.	six people act together to get another, injured man on a transport in snowy terrain	0
+386	A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.	A man in a black shirt, in a commercial kitchen, holding up the old meat he took out of a bag.	1
+387	A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.	The man is driving a truck.	2
+388	Three women are sitting on a green bench looking out at the coast.	The three women are looking into the forest.	2
+389	A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.	A woman driving a car.	2
+390	A person in a red shirt and black pants hunched over.	The person is a woman.	1
+391	3 young man in hoods standing in the middle of a quiet street facing the camera.	Three people sit by a busy street bareheaded.	2
+392	A woman in tennis clothes running to hit a ball with her tennis racket.	Serina Williams plays tennis.	1
+393	people are standing near water with a boat heading their direction	People are waiting in line at the restaurant.	2
+394	A man cooking over high flames.	A man is raking the yard.	2
+395	A person rolls down a hill riding a wagon as another watches.	A person stares at an empty hill.	2
+396	A blond little boy in an orange sweatshirt with red sleeves is using scissors to cut something.	A blond little boy is sleeping.	2
+397	One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.	Someone recording a young boy as he auditions for a part in a movie.	1
+398	A black man wearing a down jacket with his arms spread and holding a pink comb.	Someone wearing a cotton shirt was looking at a green hair comb.	2
+399	a boy in a red hooded top is smiling whilst looking away from his reflection.	The boy doesn't want to see his reflection.	1
+400	A large group of people walking in a busy city at night.	People are walking a city.	0
+401	Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.	three men look at the camera	0
+402	A woman is painting a mural of a woman's face.	There is a woman painting for fun.	1
+403	A man with no shirt on is performing with a baton.	A man throws a banana in the air.	2
+404	A person with a purple shirt is painting an image of a woman on a white wall.	A woman paints a portrait of a monkey.	2
+405	The sun breaks through the trees as a child rides a swing.	A child rides a swing in the daytime.	0
+406	Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.	Two people are standing on the grass.	0
+407	A golden retriever nurses puppies.	A golden retriever nurses some other dogs puppies	1
+408	A young girl in a pink shirt playing with her barbie.	The young girl is playing with a toy.	0
+409	An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.	The employee is swimming in the ocean.	2
+410	Female gymnasts warm up before a competition.	Gymnasts get ready for a competition.	0
+411	Blond woman overlooking Seattle Space Needle scene.	Someone taking in the space needle view.	0
+412	A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.	The woman is a model.	1
+413	A man in a black ball cap, black jacket and pants sitting in front of a building painted white and blue with the words ING and PEOPLE written on it.	The man is in front of a building.	0
+414	two boys reading superhero books	Two boys reading a book about spiderman.	1
+415	A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.	A person is standing outdoors.	0
+416	Two men are standing in a boat.	A few men are fishing on a boat.	1
+417	Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.	six people get ready to eat a seventh who is injured	2
+418	The flight attendant dressed in yellow demonstrates life vest usage.	A flight attendant is demonstrating safety procedures before takeoff.	1
+419	A guy riding a motorcycle near junk cars	A man is riding a motorcycle.	0
+420	A group of adults stands in the bathroom looking down a small child in the bath.	People are in the house.	0
+421	A man cooking over high flames.	A person is preparing some food.	0
+422	A man in a black tank top wearing a red plaid hat	A man in a hat.	0
+423	A crowd of people looking up at 3 people on the edge of the roof of a building.	Three people are climbing down the ladder on the building.	2
+424	A boy hits a tennis ball on a court.	The boy is good at tennis.	1
+425	A girl in a blue dress takes off her shoes and eats blue cotton candy.	The girl is eating blue cotton candy at a carnival.	1
+426	People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.	People are taking the elevator.	2
+427	Four adults eat while sitting on a tile floor.	Two couples play pool in a bar.	2
+428	A person in a red shirt is mowing the grass with a green riding mower.	A person in red is moving grass on a John Deer motor.	1
+429	A busy street with numerous people interacting and going about their lives.	The morning rush hour fills the streets with busy people.	1
+430	A woman wearing jeans is walking down the street.	A person is outside.	0
+431	A boy in a green shirt on a skateboard on a stone wall with graffiti	A boy in a green shirt rollerblading through the tunnel.	2
+432	A family walking with a soldier.	The barber cuts a man's hair.	2
+433	People seated at long tables all facing the same direction, some writing and some watching.	A family reunion is in progress as relatives sit at tables and write down each other's addresses.	1
+434	A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.	A woman in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.	2
+435	Three workers, with life vests and hard hats, on a boat hanging from cables over water.	Three people are on a boat.	0
+436	Two men climbing on a wooden scaffold.	Two people climbing on a wooden scaffold.	0
+437	A softball player throws the ball to her teammate.	Two softball players are sitting on a bench.	2
+438	A person rolls down a hill riding a wagon as another watches.	Two people are outside.	0
+439	An older man leans against a pedestal outside of an ornate building.	An older man leans outside a building	0
+440	A female runner dressed in blue athletic wear is running in a competition, while spectators line the street.	There are people on the street.	0
+441	A young boy with close-cropped hair, wearing a red robe, is holding a black kettle as someone is about to pour something in it.	a small boy holds a kettle that will soon be filled with salsa	1
+442	Children in yellow sports uniforms climbing a tower.	The kids crawl in sand.	2
+443	One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.	A young boy juggling three red balls while blindfolded.	2
+444	A crowd of people shopping at a street market in an urban area with buildings and a statue in background.	the crowd of people are shopping.	0
+445	The girl wearing a brown jacket whilst walking in snow.	The lady wearing a jacket is looking for her lost dog.	1
+446	A young girl in a pink shirt playing with her barbie.	The young girl is playing with a race car.	2
+447	Dog running with pet toy being chased by another dog.	A dog is being chased by a cat	2
+448	Two teenage girls conversing next to lockers.	Girls talking about their problems next to lockers.	1
+449	Two little kids without shirts are sitting down facing each other.	Two children are sleeping at daycare	2
+450	A woman with a green headscarf, blue shirt and a very big grin.	The woman is young.	1
+451	A skateboarding youth does a trick on a rail.	A man painting a tree.	2
+452	A softball player throws the ball to her teammate.	Teammates are competing in a softballs championship.	1
+453	Three boys in white shirts are walking behind an older model Ford car.	there are three boys	0
+454	A man reads the paper in a bar with green lighting.	The man is reading the sportspage.	1
+455	Two formally dressed, bald older women	Two bald women with glasses.	1
+456	A goofy looking woman is singing on stage.	A woman is reciting poetry on the stage.	2
+457	A group of people are in a rowboat in the ocean surrounded by seagulls.	A group of people are rowing towards some islands while one of them fishes.	1
+458	A man and woman sitting on the sidewalk.	The man and woman are married.	1
+459	A young girl in a yellow top and a flowered skirt is standing on a blanket and biting on a toy.	Everyone is sitting.	2
+460	A group of people gathered at night watching an event.	The group of friends are asleep.	2
+461	Four young girls playing in the water.	Four girls are in the water.	0
+462	Man and woman eating a hotdog.	A man and his family are eating pizza.	2
+463	A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.	A group of people are standing outside.	0
+464	Men sitting on the side of a brick road.	men are talking on the side of the road	1
+465	a group of people dancing together.	They are doing the tango.	1
+466	A woman working long hours.	A woman is working.	0
+467	Three men are carrying a red bag into a boat with another person and boat in the background.	A person drives away in a winnebago.	2
+468	an old shoemaker in his factory	The shoemaker is wealthy.	1
+469	Two strong men work to saw a log.	two strong men work to saw the oak log	1
+470	Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.	Nobody is drying clothes.	2
+471	Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.	A man is wearing something.	0
+472	A young boy walks on a pipe that stretches over water.	A boy is making a sub sandwich in his kitchen.	2
+473	A person dressed in white and black winter clothing leaps a narrow, water-filled ditch from one frost-covered field to another, where a female dressed in black coat and pants awaits.	The man is dressed in summer clothing.	2
+474	A man in a black tank top wearing a red plaid hat	A man wearing football pads.	2
+475	A woman in a brown shirt is kneeling in the street.	A woman is riding a bicycle.	2
+476	Two strong men work to saw a log.	two strong men are having a beer	2
+477	A homeless man pushes an overfilled plastic blue shopping cart.	A rich man holding a rolex	2
+478	A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.	A human jumping.	0
+479	A white duck expanding its wings in the water.	There is one animal in this picture.	0
+480	Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.	The women are having a conversation at the office,	2
+481	A blond little boy in an orange sweatshirt with red sleeves is using scissors to cut something.	A little male has clothes on with a pair of scissors in his hands.	0
+482	A girl playing a violin along with a group of people	A girl is playing an instrument.	0
+483	A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.	the man is playing	0
+484	Two men prepare a fish at a dock.	Two men are sitting in a canoe with their fishing poles	2
+485	Two men climbing on a wooden scaffold.	Two women climbing on a wooden scaffold.	2
+486	Six dogs swimming in a river.	Six dogs are outdoors.	0
+487	A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.	The man can hear the construction going on.	1
+488	A naked man rides a bike.	A person biking.	0
+489	A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.	Nobody is jumping.	2
+490	A man in a plaid shirt looking through a telescope lens.	a man is looking through a telescope	0
+491	A man reads the paper in a bar with green lighting.	The man is climbing a mountain.	2
+492	The soccer team, clad in blue for the match, began to counter down the field in front of the defender, clad in red.	The blue soccer team is playing its first game of the season.	1
+493	A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.	A man in a shirt, in a commercial kitchen, holding up meat he took out of a bag.	0
+494	A child is sticking her head out of the 0095 taxi cab and screaming.	A child is inside a car.	0
+495	Two people talking on a dock.	fishermen at the dock	1
+496	Elderly woman in blue apron balances a basket on her head on a sidewalk while talking to a woman dressed in black.	The woman balancing a basket on her head is heading to her neighbors house.	1
+497	A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.	A lady is helping another woman work	0
+498	Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.	A person drying clothes	0
+499	Elderly woman in blue apron balances a basket on her head on a sidewalk while talking to a woman dressed in black.	Elderly woman is balancing something on her head while having a conversation.	0
+500	Men wearing blue uniforms sit on a bus.	Men sit on the bus.	0
+501	A young girl in a pink shirt playing with her barbie.	The young girl is having fun.	1
+502	A blond little boy in an orange sweatshirt with red sleeves is using scissors to cut something.	A blond little boy is cutting out little stars for his little sister.	1
+503	A man in a black shirt overlooking bike maintenance.	A man watches bike repairs.	0
+504	A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.	A woman is asleep while moonlight filters in the window.	2
+505	A man with a long white beard is examining a camera and another man with a black shirt is in the background.	A man is with a cowboy	1
+506	An older women tending to a garden.	The lady is cooking dinner	2
+507	A man in a black ball cap, black jacket and pants sitting in front of a building painted white and blue with the words ING and PEOPLE written on it.	The man is standing in front of a building.	2
+508	3 young man in hoods standing in the middle of a quiet street facing the camera.	Three hood wearing people stand in a street.	0
+509	a man with a red headband climbing a rock cliff looming over greenery.	A man is swimming in the ocean.	2
+510	A woman wearing a ball cap squats down to touch the cracked earth.	A woman wearing a sun bonnet planting a garden.	2
+511	A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.	A man repairs bicycles.	0
+512	A group of four children pose on a muddy beach, smiling and making faces.	Four kids pose on a beach.	0
+513	A standing man talks to a seated woman while on some sort of vehicle.	Two people are talking.	0
+514	Three girls blow out the candles of a cake made of Peeps.	There are three girls and a cake	0
+515	Two men climbing on a wooden scaffold.	Two sad men climbing on a wooden scaffold.	1
+516	Several women wearing dresses dance in the forest.	There are men dancing	2
+517	The back of a woman wearing a white jacket with blue jeans walking towards a flock of birds.	There were some birds near a woman.	0
+518	A carpenter is working on a roof at a house being built.	A boy is jumping up and down.	2
+519	A woman leans over a small fence to take a picture of a yellow flower.	The flower is blue	2
+520	A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.	A man is playing an instrument on the street near other people.	0
+521	Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.	A young boy is sleeping on a pillow.	0
+522	A golden dog passes a blue ball to another golden dog on the beach.	The dogs are friends.	1
+523	A man cooking over high flames.	A man is cooking for his friends.	1
+524	A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.	He is reading the newspaper.	1
+525	The little boy gets ready to kick the soccer ball.	the boy gets ready	0
+526	A woman is weaving with a comb in her hand.	A woman is doing something with her hands.	0
+527	A woman in tennis clothes running to hit a ball with her tennis racket.	Pete Sampras plays tennis.	2
+528	A female softball player wearing blue and red crouches in the infield, waiting for the next play.	a player is waiting	0
+529	A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.	The woman has an important meeting today in the building.	1
+530	Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.	Some girls playing basketball.	2
+531	A bird is flapping its wings on the water.	The bird is flying over the trees.	2
+532	A group of people in an alley looking at the camera.	People are taking a picture	1
+533	Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.	the men are asleep in the motel	2
+534	A newlywed couple laughing and talking amongst themselves.	The couple is having fun.	0
+535	Boys with their backs against an incoming wave.	A group of people stand together.	0
+536	Four children are playing in some water.	The children are muddy.	1
+537	Biker riding through the forest.	Man riding motorcycle on highway.	2
+538	Four people and a baby are crossing the street at a crosswalk.	People and a baby riding the bus.	2
+539	A softball player throws the ball to her teammate.	Two people are playing softball.	0
+540	Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.	A man is wearing nothing.	2
+541	Two teenage girls conversing next to lockers.	People talking next to lockers.	0
+542	A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.	"The sign the woman is holding states that ""Freedom is free."""	1
+543	A group of cleaners are sweeping up animal feces from the street during a parade or festival.	A man walking on water.	2
+544	The flight attendant dressed in yellow demonstrates life vest usage.	A woman is preparing drinks on an airplane.	2
+545	Girl in red jumping up	The girl is jumping to catch the frisbee.	1
+546	A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.	A woman speaks to other women.	0
+547	Girl in red jumping up	The girl in red is in the air.	0
+548	people are standing near water with a boat heading their direction	The people are standing.	0
+549	A group of cleaners are sweeping up animal feces from the street during a parade or festival.	A group of cleaners after a parade.	0
+550	A man is shooting a gun outdoors, on what looks like a beautiful sunny day.	A man is shooting a gun outside with his friends.	1
+551	People seated at long tables all facing the same direction, some writing and some watching.	A group of people are sitting at tables.	0
+552	A man has flung himself over a pole with people and canopies in the background.	A person is performing a trick at the circus.	1
+553	Three firefighter come out of subway station.	Three firefighters playing cards inside a fire station.	2
+554	An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.	An old woman has a light jean jacket.	1
+555	A crowd of people shopping at a street market in an urban area with buildings and a statue in background.	The crowd of people are inside a mall.	2
+556	Three firefighter come out of subway station.	Three firefighters coming up from a subway station.	0
+557	Four women competitively rollerskating around an area.	four men are rollerskating.	2
+558	A man has flung himself over a pole with people and canopies in the background.	The man is running after a robber.	2
+559	A family walking with a soldier.	A group of people strolling.	0
+560	A kid playing a game called The Derby.	The child is sleeping.	2
+561	A crowded city street with lots of pedestrians.	The pedistrians are waiting for a parade to come through this busy street.	1
+562	A dog standing near snow looking at water.	The dog is thinking about going to for a swim.	1
+563	Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.	They are in a boat.	2
+564	A group of footballs players is standing behind a coaching official.	They are college football players.	1
+565	A golfer is getting ready to putt on the green, with a crowd of people watching in the background.	The golfer retired from play today.	2
+566	A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.	A young boy is playing video games indoors.	2
+567	A person in orange clothing rests above a metro entrance.	A person is sitting at a baseball game.	2
+568	Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.	There are two little boys smiling.	0
+569	Two little boys wearing athletic jerseys are washing their hands in a public restroom.	The boys are bare-chested.	2
+570	A standing man talks to a seated woman while on some sort of vehicle.	Two people are discussing their relationship.	1
+571	A child in a ninja outfit does a jumping kick.	a child in a black ninja suit does a kick	1
+572	The soccer team, clad in blue for the match, began to counter down the field in front of the defender, clad in red.	A soccer team hangs out in the locker room.	2
+573	One man, wearing a blue jacket, is kicking another man, wearing a red jacket.	Two men are fighting outside a bar.	1
+574	A group of seven individuals wearing rafting gear, white water raft down a river.	The man has fallen out of the boat.	2
+575	A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.	two men are at the pool.	2
+576	Boy in midair on bicycle	A boy is airborne on a bicycle.	0
+577	An old man with a package poses in front of an advertisement.	A man poses in front of an ad for beer.	1
+578	An old woman watches a man look down at some balls on the ground.	Two people are sleeping on the train.	2
+579	A couple is eating outside at a table and he is pointing at something.	People are eating at a table outside.	0
+580	A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.	The man is riding a bike.	0
+581	A group of people stand near and on a large black square on the ground with some yellow writing on it.	a group of people wait	1
+582	A man in an Alaska sweatshirt stands behind a counter.	The person behind the counter is a man.	0
+583	A female softball player wearing blue and red crouches in the infield, waiting for the next play.	the player is flying planes	2
+584	Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.	Bruce Springsteen is a singer.	0
+585	Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.	The boys are siblings playing with each other.	1
+586	Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.	A young boy is playing soccer.	2
+587	A group of seven individuals wearing rafting gear, white water raft down a river.	Seven men and women are in a yellow boat.	1
+588	A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.	There is a person in a room.	0
+589	Five girls and two guys are crossing a overpass.	There are people outside.	0
+590	Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.	Two women in dresses are getting ready for the picnic.	1
+591	The two young girls are dressed as fairies, and are playing in the leaves outdoors.	Girls are playing outdoors.	0
+592	A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.	A child wearing a red top is standing behind a pretty blond headed child	1
+593	Dark-haired man wearing a watch and oven mitt about to cook some meat in the kitchen.	A man is sitting watching TV.	2
+594	A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.	An artist relaxes in her studio.	1
+595	A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.	A woman riding a bike to work.	1
+596	A man wearing a short-sleeved blue shirt and carrying a blue backpack while using snow walking sticks treks through the snow with a woman wearing a long-sleeved blue shirt and black pants also using snow walking sticks.	two people go to work in a blizzard	1
+597	A group of four children pose on a muddy beach, smiling and making faces.	A man stirs the stew.	2
+598	A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.	A child wearing a red top is standing behind a blond headed child	0
+599	A young child joyfully pulls colorful tissue paper from a decorated box, looking for his present.	a child pulls colorful tissue paper from a fancy box	0
+600	One man, wearing a blue jacket, is kicking another man, wearing a red jacket.	A woman puts on makeup	2
+601	Island native fishermen reeling in their nets after a long day's work.	The men did not go to work today but instead played bridge.	2
+602	Boy in midair on bicycle	The boy is afraid to ride his bicycle so he lets it sit in the garage and collect rust.	2
+603	Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background	Two men are placing construction cones in preparation of a new pipeline building.	1
+604	A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.	A boy swims.	0
+605	many children play in the water.	The children are playing mini golf.	2
+606	Two men are standing in a boat.	Some people are in a boat.	0
+607	A man in an Alaska sweatshirt stands behind a counter.	The man is wearing a tank top.	2
+608	couples enjoying a meal, while a bunch of dogs take a nap.	THE COUPLE ARE EATING STEAK	1
+609	A man cooking with fire in like 5 pots at the same time!	A man is cooking dinner for his family in a bunch of pots.	1
+610	A man is shooting a gun outdoors, on what looks like a beautiful sunny day.	A man is shooting a bow and arrow on a rainy day.	2
+611	Two little kids without shirts are sitting down facing each other.	Two young children are playing with each other and giggling while playing with markers	1
+612	A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.	A blond speaks with a group of young dark-haired woman students carrying pieces of paper.	0
+613	3 ladies with numbers on their shirts running.	There are ladies running.	0
+614	A man is riding a bike along a dirt trail.	The man is riding a horse.	2
+615	Several men at a bar watch a sports game on the television.	Some men are watching TV at a bar.	0
+616	A man in a black shirt is looking at a bike in a workshop.	A man is wearing a red shirt	2
+617	A boy is riding down the road between two cows.	A single cow is alone.	2
+618	a group of people dancing together.	No one is dancing.	2
+619	a boy holding onto the wall of an old brick house's raised foundation.	a girl is leaning against the wall	2
+620	An elderly woman is preparing food in the kitchen.	A man cleans the kitchen.	2
+621	A man wearing a red vest is walking past a black and green fence.	The man wearing the vest is sitting on the sofa.	2
+622	A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.	A young boy is playing in the field because his mother kicked him out of the house.	1
+623	A person in a red shirt and black pants hunched over.	A person wears a red shirt.	0
+624	Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.	Six or seven people are standing on a pier.	0
+625	The little boy gets ready to kick the soccer ball.	the boy is ten years old	1
+626	Blond woman overlooking Seattle Space Needle scene.	A tourist checking out Seattle.	1
+627	Two people talking on a dock.	people outside	0
+628	A dog standing near snow looking at water.	Animal is outdoors.	0
+629	A young boy in green shorts balances on a pipe above a river.	A clever person balancing.	1
+630	A group of people stand near and on a large black square on the ground with some yellow writing on it.	a person lies on the couch	2
+631	Women of India performing with blue streamers, in beautiful blue costumes.	indian women perform together in gorgeous costumes	0
+632	Man holding torch of fire.	There is a man.	0
+633	Dog running with pet toy being chased by another dog.	a black dog with a toy is being based by a brown dog	1
+634	The tattooed basketball player is about to dunk the ball.	The man is playing football..	2
+635	A goofy looking woman is singing on stage.	A woman is singing.	0
+636	A family walking with a soldier.	A few people walk with a man in uniform.	1
+637	A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.	A man is making a sandwich while a crowd gasps in awe.	2
+638	A young boy in green shorts balances on a pipe above a river.	Nobody is balancing.	2
+639	Men wearing blue uniforms sit on a bus.	Men drive the bus into the ocean.	2
+640	A man in a suit driving a horse-drawn buggy down a stone street.	The man is driving a buggy.	0
+641	The man in the black wetsuit is walking out of the water.	A man in a wetsuit walks out of the water carrying a surfboard.	1
+642	Workers standing on a lift.	Workers walk home from work	2
+643	Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.	the men are musicians	0
+644	Group of people wearing black shirts riding in an open top vehicle.	The driver was wearing a purple shirt.	2
+645	A black man wearing a down jacket with his arms spread and holding a pink comb.	A man was wearing a jacket while holding a comb.	0
+646	A skateboarding youth does a trick on a rail.	A young boy showing his new skateboard tricks to his friends.	1
+647	A young boy with close-cropped hair, wearing a red robe, is holding a black kettle as someone is about to pour something in it.	a small boy runs through the corn field	2
+648	a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.	A woman climber attempts to pull herself up	2
+649	Several women wearing dresses dance in the forest.	there are several women	0
+650	An older women tending to a garden.	The lady is weeding her garden	1
+651	A man wearing a short-sleeved blue shirt and carrying a blue backpack while using snow walking sticks treks through the snow with a woman wearing a long-sleeved blue shirt and black pants also using snow walking sticks.	two men play with a snowman	2
+652	Boy in midair on bicycle	The boy is falling off of his bicycle.	1
+653	Five children playing soccer chase after a ball.	They are playing football.	2
+654	This child is on the library steps.	The child is on the steps.	0
+655	Two people talking on a dock.	women shopping at the mall	2
+656	Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash.	Two friends sit against a wall with their pet dog.	1
+657	The woman in the black shirt hands papers to the children surrounding her.	THe woman is giving homework to the children.	1
+658	A group of adults stands in the bathroom looking down a small child in the bath.	The childs mom is watching her son with her friends.	1
+659	A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.	The man is wearing shorts and a t-shirt as he jogs.	2
+660	A woman wearing a bright orange blouse is weaving.	A woman is weaving.	0
+661	3 ladies with numbers on their shirts running.	The ladies are in a marathon.	1
+662	Four men stand in a circle facing each other playing brass instruments which people watch them.	The men are watching a sports channel	2
+663	A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.	A man can is on the phone.	0
+664	The man in the black wetsuit is walking out of the water.	a person is walking out of water.	0
+665	A woman wearing a ball cap squats down to touch the cracked earth.	An archeologist wearing a hat squats to examine the site for a dig	1
+666	Men wearing blue uniforms sit on a bus.	Men sit on the bus going to work,	1
+667	A man holding a baby who is petting a pony.	A man and his daughter are petting a pony.	1
+668	Villagers pulling in the fish boat.	There are people pulling a boat.	0
+669	a boy holding onto the wall of an old brick house's raised foundation.	a boy is against the wall of a raised foundation	0
+670	A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.	A person is selling coconuts.	1
+671	2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.	A couple of child relatives were hugging because they were happy to see each other.	1
+672	A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread.	The man spreads his arms while standing in front of a railing.	0
+673	Boys with their backs against an incoming wave.	A group of people play in the ocean.	1
+674	A man wearing a snorkel and goggles gives a thumbs up as he and another person speed through the water.	Two guys are on a lake.	1
+675	A group of people look at fresh lettuce in at the local street market.	A group of men, and women look at fresh romaine lettuce in at the local street market.	1
+676	Two people are playing American Football and one of them is trying to stop the other from throwing the ball.	A pitcher throws the baseball to the batter as he attempts to hit it out of the park.	2
+677	A car is loaded with items on the top.	The car is going on a trip.	1
+678	A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.	A lady is sleeping on a couch	2
+679	Three women are sitting on a green bench looking out at the coast.	The women are outdoors.	0
+680	A man and woman are taking a picture of themselves while a woman in a scarf walks by them.	A man and woman take selfies while a woman walks by and judges them.	1
+681	People are conversing at a dining table under a canopy.	People are screaming at a boxing match.	2
+682	a woman in a black shirt looking at a bicycle.	A woman sees a bicycle.	0
+683	A pro-baseball pitcher sends a curve ball to his opponent while many fans relax and enjoy the game.	A pitcher is playing baseball	0
+684	a boy in a red hooded top is smiling whilst looking away from his reflection.	A boy in a red hood is happy.	0
+685	A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.	A lady sitting on a bench in the park.	2
+686	Two children re laying on a rug with some wooden bricks laid out in a square between them.	Two children are playing catch at a park.	2
+687	A person is sitting in front of a graffiti covered wall.	There's a place to sit near a wall	0
+688	Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.	A college football game.	0
+689	A child is sticking her head out of the 0095 taxi cab and screaming.	A child is at home, resting.	2
+690	A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.	He is jewish.	1
+691	The girls walk down the street.	Girls were going to the park.	1
+692	A woman working long hours.	A woman is working in a factory.	1
+693	A little boy with a blue bike helmet and a woman in a green bike helmet are riding bikes down a street with other various bike riders.	A mother and her son ride bikes with others down a street.	1
+694	A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.	A man hits on a woman.	2
+695	Some dogs are running on a deserted beach.	There is only one dog at the beach.	2
+696	Two people are playing American Football and one of them is trying to stop the other from throwing the ball.	A lineman is trying to tackle the quarterback before he makes the game winning touchdown.	1
+697	A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.	The man is pacing nervously.	2
+698	The man in the black t-shirt is trying to throw something.	The man is walking away.	2
+699	There are five singers on a stage, three women and two men.	The performers are playing bagpipes.	2
+700	A blond-haired doctor and her African american assistant looking threw new medical manuals.	A man is eating pb and j	2
+701	A person dressed in white and black winter clothing leaps a narrow, water-filled ditch from one frost-covered field to another, where a female dressed in black coat and pants awaits.	The female awaiting the man leaping is his sister.	1
+702	Two dogs run together near the leaves.	The two dogs are running to play in the leaves.	1
+703	A female softball player wearing blue and red crouches in the infield, waiting for the next play.	the player is pretty	1
+704	One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.	An adult using a video camera.	0
+705	One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.	A tan girl runs leans over an object	0
+706	A blond woman in a black shirt is standing behind a counter.	The woman is standing.	0
+707	A boy is riding down the road between two cows.	A boy, a road and two cows.	0
+708	Blond woman overlooking Seattle Space Needle scene.	A man enjoying the view of the golden gate bridge.	2
+709	A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps.	A person is talking to a child while another person watches.	0
+710	Two people are playing American Football and one of them is trying to stop the other from throwing the ball.	A game of football is being played.	0
+711	A naked man rides a bike.	A man in a suit walking on a sidewalk.	2
+712	A woman wearing jeans is walking down the street.	A woman is walking towards a bus stop.	1
+713	A large group of people walking in a busy city at night.	People are eating lunch in a restaurant.	2
+714	A man in a brown jacket stands with his arms spread.	The man sits crosslegged on the floor.	2
+715	An old man looking over a sculpture.	the man is at an art gallery	1
+716	Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background	A woman chastises another.	2
+717	Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.	volleyball match is in progress between ladies	0
