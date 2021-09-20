@@ -10,10 +10,6 @@ create a benchmark of adversarial examples combining 11 attack methodologies. Th
 
 To further research in this field, we realease a benchmark that contains 5,686 adversarial examples across tasks and attack types. To the best of our knowledge, this dataset is the most extensive benchmark available on the considered task. For detailed information regarding this work, please visit our [paper](https://openreview.net/pdf?id=HcPfWDZZVuh). 
 
-<p align="center">
-   <img src="../gh-pages/assets/images/gesture_sample.jpg" width=400 height=300>
-</p>
-
 ## Key Contributions
 
 1. We demonstrate that our method is more accurate for larger models which are likely to have more spurious correlations and thus vulnerable to adversarial attack, and performs well even with modest training sets of adversarial examples.
