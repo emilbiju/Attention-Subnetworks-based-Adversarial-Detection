@@ -8,7 +8,7 @@ second feature, Fflip, characterizes the output of a “mutated” IAS obtained 
 We report results on 10 NLU tasks from the GLUE benchmark (SST2, MRPC, RTE, SNLI, MultiNLI, QQP, QNLI) and elsewhere (Yelp, AG News, IMDb). For each of these tasks, we first 
 create a benchmark of adversarial examples combining 11 attack methodologies. These include word-level attacks: deletion (Feng et al., 2018), antonyms, synonyms, embeddings(Mrkšic et al. ´ , 2016), order swap (Pruthi et al., 2019), PWWS (Ren et al., 2019), TextFooler (Jin et al., 2020) and character-level attacks: substitution, deletion, insertion, order swap (Gao et al., 2018). 
 
-To further research in this field, we realease a benchmark that contains 5,686 adversarial examples across tasks and attack types. To the best of our knowledge, this dataset is the most extensive benchmark available on the considered task. For detailed information regarding this work, please visit our [paper](https://openreview.net/forum?id=h18PaQKMbP). 
+To further research in this field, we realease a benchmark that contains 5,686 adversarial examples across tasks and attack types. To the best of our knowledge, this dataset is the most extensive benchmark available on the considered task. This work is currently under review at ACL Rolling review and will be submitted to ACL 2022 conference. For detailed information regarding this work, please visit our [paper](https://openreview.net/forum?id=h18PaQKMbP). 
 
 ## Key Contributions
 
